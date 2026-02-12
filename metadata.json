@@ -1,0 +1,7 @@
+{
+  "name": "KDP ColorMaster AI",
+  "description": "Professional-grade AI Coloring Page Generator for Amazon KDP sellers. Generate high-resolution, print-ready line art in bulk.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
